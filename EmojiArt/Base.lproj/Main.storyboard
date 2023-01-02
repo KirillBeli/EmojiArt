@@ -214,7 +214,7 @@
                     <value key="contentSizeForViewInPopover" type="size" width="1045" height="1024"/>
                     <connections>
                         <outlet property="dropZone" destination="mJM-P5-S4t" id="sg6-5V-C1Y"/>
-                        <outlet property="emojiColectionView" destination="IdT-82-Ttm" id="dEs-bo-eRb"/>
+                        <outlet property="emojiCollectionView" destination="IdT-82-Ttm" id="WoI-uQ-191"/>
                         <outlet property="scrollView" destination="qTO-d0-6QA" id="Lp5-J6-oy7"/>
                         <outlet property="scrollViewHeight" destination="f5u-eF-4wW" id="JEf-39-bMb"/>
                         <outlet property="scrollViewWidth" destination="p4M-jw-FFx" id="z5I-L4-gco"/>
